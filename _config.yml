@@ -3,7 +3,8 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "jh"
+remote_theme: aweekj/kiko-plus
 
 author:
   facebook:         your-id
